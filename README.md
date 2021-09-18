@@ -1,0 +1,2 @@
+# BSDB
+Battle Spirits DataBase
