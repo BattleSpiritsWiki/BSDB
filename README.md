@@ -1,2 +1,2 @@
-# BSDB
-Battle Spirits DataBase
+# Battle Spirits Database
+
